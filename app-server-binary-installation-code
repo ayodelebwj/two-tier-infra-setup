@@ -1,0 +1,4 @@
+# This script installs python3 and java17
+apt update                           # Update package index
+apt install openjdk-17-jdk -y        # Installs java 17 jdk
+apt install python3 -y.              # Installs Python3
